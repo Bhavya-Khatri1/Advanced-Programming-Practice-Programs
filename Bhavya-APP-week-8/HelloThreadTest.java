@@ -18,7 +18,7 @@ class WelcomeThread extends Thread
         }
     }
 }
-public class HelloThreadTest
+public class printThread
 {
     public static void main(String[] args)
     {
